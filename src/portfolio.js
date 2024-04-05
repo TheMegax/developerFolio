@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/TheMegax",
   linkedin: "https://www.linkedin.com/in/mathias-tello-moyano/",
   gmail: "israkaya9@gmail.com",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
